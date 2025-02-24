@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Cheryl Lowe Spence and I am a Fraud and Compliance Manager here at Ziff Davis on the Voice side of things!
 
-Here are some ideas to get you started:
+About me!
 
 - 🔭 I’m currently working on fighting bad actors
 - 🌱 I’m currently learning Github
